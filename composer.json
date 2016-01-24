@@ -1,6 +1,7 @@
 {
     "name": "alisherdavronov/yii2-grid-sort-column-enh",
-    "description": "Bootstrap Grid Sort Column Enhenced Widget for Yii2 based on greshnik/yii2-grid-sort-column",
+    "description": "Bootstrap Grid Sort Column Enhanced Widget for Yii2 based on greshnik/yii2-grid-sort-column",
+    "version": "0.0.1",
     "type": "yii2-extension",
     "keywords": [
         "yii",

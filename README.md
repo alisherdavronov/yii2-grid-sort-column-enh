@@ -1,6 +1,6 @@
-Bootstrap Grid Sort Column Widget for Yii2
+Bootstrap Grid Sort Column Enhanced Widget for Yii2
 ====================================
-
+based on greshnik/yii2-grid-sort-column
 
 Installation
 ------------
